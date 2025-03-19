@@ -65,4 +65,4 @@ WDev is designed to work across different languages, making it accessible to use
 Ready to enhance your Discord experience? Invite WDev to your server and unlock a whole new world of features!
 
 **Join the community:**  
-[https://discord.gg/48BDu759Yc](https://discord.gg/48BDu759Yc)
+[https://discord.gg/48BDu759Yc](https://discord.gg/8K2neBXVfg)
